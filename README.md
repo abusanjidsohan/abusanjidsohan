@@ -27,12 +27,13 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abusanjidsohan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abusanjidsohan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abusanjidsohan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abusanjidsohan&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 ---
