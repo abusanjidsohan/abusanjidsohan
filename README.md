@@ -1,4 +1,4 @@
-<h1 align="center">This is AbuSanjid Sohan</h1>
+<h1 align="center">AbuSanjid Sohan</h1>
 <h3 align="center">Frontend Developer || JavaScript Enthusiast</h3>
 
 <p align="center">
