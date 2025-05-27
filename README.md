@@ -1,5 +1,5 @@
 <h1 align="center">This is AbuSanjid Sohan</h1>
-<h3 align="center">Frontend Developer & JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Developer || JavaScript Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+modern+web+experiences;Passionate+about+clean+UI+%26+UX;Always+learning+something+new" alt="Typing SVG" />
@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I love turning ideas into responsive and interactive user interfaces  
-- 🌱 Currently diving deeper into **React**, **TypeScript**, and **Next.js**  
-- 🧩 I enjoy solving UI/UX challenges and writing scalable frontend code  
-- ⚡ Fun fact: I sometimes redesign websites just for fun!
+🔭 I love turning ideas into responsive and interactive user interfaces  
+🌱 Currently diving deeper into **React**, **TypeScript**, and **Next.js**  
+🧩 I enjoy solving UI/UX challenges and writing scalable frontend code  
+⚡ Fun fact: I sometimes redesign websites just for fun!
 
 ---
 
@@ -26,8 +26,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=abusanjidsohan&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
 </p>
@@ -36,11 +34,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abusanjidsohan&theme=vue-dark" alt="GitHub Streak" />
 </p>
 
-
-
 ---
 
-### 📫 Connect with Me
+### 🎯 Connect with Me
 
 <p>
   <a href="https://bd.linkedin.com/in/abusanjidsohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
