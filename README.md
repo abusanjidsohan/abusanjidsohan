@@ -18,6 +18,10 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,nodejs,php,laravel,mysql,git,github,vscode" />
+
+</div>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,nodejs,php,laravel,mysql,git,github,vscode" style="width: 70%; max-width: 600px;" />
 </div>
 
 <hr />
