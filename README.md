@@ -1,24 +1,29 @@
 <h1 align="center">AbuSanjid Sohan</h1>
-<h3 align="center">Frontend Developer || JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Developer &nbsp;||&nbsp; JavaScript Enthusiast</h3>
 
-### 👨‍💻 About Me
+<!-- About Me -->
+<h3>👨‍💻 About Me</h3>
 
-🔭 I love turning ideas into responsive and interactive user interfaces  
-🌱 Currently diving deeper into **React**, **TypeScript**, and **Next.js**  
-🧩 I enjoy solving UI/UX challenges and writing scalable frontend code  
-⚡ Fun fact: I sometimes redesign websites just for fun!
+<ul>
+  <li>🔭 I love turning ideas into responsive and interactive user interfaces</li>
+  <li>🌱 Currently diving deeper into <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Next.js</strong></li>
+  <li>🧩 I enjoy solving UI/UX challenges and writing scalable frontend code</li>
+  <li>⚡ Fun fact: I sometimes redesign websites just for fun!</li>
+</ul>
 
----
+<hr />
 
-### 🛠️ Tech Stack || Languages
+<!-- Tech Stack -->
+<h3>🛠️ Tech Stack &nbsp;||&nbsp; Languages</h3>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,gulpjs,nodejs,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,nodejs,php,laravel,mysql,git,github,vscode" />
 </div>
 
----
+<hr />
 
-### 📊 GitHub Stats
+<!-- GitHub Stats -->
+<h3>📊 GitHub Stats</h3>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=abusanjidsohan&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
@@ -28,11 +33,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abusanjidsohan&theme=vue-dark" alt="GitHub Streak" />
 </p>
 
----
+<hr />
 
-### 🎯 Connect with Me
+<!-- Contact -->
+<h3>🎯 Connect with Me</h3>
 
 <p>
-  <a href="https://bd.linkedin.com/in/abusanjidsohan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abusanjid.sohan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bd.linkedin.com/in/abusanjidsohan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abusanjid.sohan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
