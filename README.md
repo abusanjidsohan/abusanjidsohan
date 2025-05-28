@@ -1,12 +1,6 @@
 <h1 align="center">AbuSanjid Sohan</h1>
 <h3 align="center">Frontend Developer || JavaScript Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+modern+web+experiences;Passionate+about+clean+UI+%26+UX;Always+learning+something+new" alt="Typing SVG" />
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 🔭 I love turning ideas into responsive and interactive user interfaces  
@@ -19,7 +13,7 @@
 ### 🛠️ Tech Stack || Languages
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,php,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,php,laravel,sql,git,github,vscode" />
 </div>
 
 ---
