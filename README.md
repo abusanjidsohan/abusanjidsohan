@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack || Languages
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,php,laravel,sql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nextjs,gulpjs,nodejs,php,laravel,mysql,git,github,vscode" />
 </div>
 
 ---
