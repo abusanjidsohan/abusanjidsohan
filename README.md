@@ -1,5 +1,5 @@
 <h1 align="center">AbuSanjid Sohan</h1>
-<h3 align="center">Frontend Developer &nbsp;||&nbsp; JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Developer||JavaScript Enthusiast</h3>
 
 <!-- About Me -->
 <h3>👨‍💻 About Me</h3>
